@@ -30,10 +30,12 @@
 | Duplicate Lines | `CMD + D` | `Ctrl + D` | Создать дубликат текущей строки |
 | Safe Delete | `CMD + Backspace` | `Ctrl + Y` | Удаление всей текущей строки |
 | Select block | `ALT + up` | `Ctrl-W`  | Выделить блок кода (слово/строка/документ)|
-| Move Line Up | `CMD + Shift + up` | `Ctrl + Shift + up`  | Переместить текущую строку на одну строку вверх |
-| Move Line Down | `CMD + Shift + down` | `Ctrl + Shift + down`  | Переместить текущую строку на одну строку вниз |
+| Move Block Up | `CMD + Shift + up` | `Ctrl + Shift + up`  | Переместить текущий блок кода вверх, на место предыдущего блока кода |
+| Move Block Down | `CMD + Shift + down` | `Ctrl + Shift + down`  | Переместить текущий блок кода вниз, на место следующего блока кода |
+| Move Line Up | `ALT + Shift + up` | `ALT + Shift + up`  | Переместить текущую строку на одну строку вверх |
+| Move Line Down | `ALT + Shift + down` | `ALT + Shift + down`  | Переместить текущую строку на одну строку вниз |
 | Line comment | `CMD + /` | `Ctrl + /`  |  Добавить строчный комментарий |
-| Block comment | `CMD + Shift + /` | `Ctrl + Shift + /`  | Добавить блочный комментарий |
+| Block comment | `Ctrl + Shift + /` | `Ctrl + Shift + /`  | Добавить блочный комментарий |
 | Reformat code | `CMD + ALT + L` | `Ctrl + ALT + L`  | Восстанавливает форматирование кода, согласно настройкам |
 | Multi select | `ALT + Click` | `ALT + J + Click`  | Множественный курсор (нажать и немного подержать - выделит все вхождения) |
 | Last Edition Location | `CMD + Shift + Backspace` | `Ctrl + Shift + Backspace`  | Вернуться к предыдущему месту редактирования |
